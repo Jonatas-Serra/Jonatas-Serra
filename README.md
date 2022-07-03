@@ -1,7 +1,7 @@
 ## Olá pessoas, sou Jonatas Serra
 
 - 🥷🏽 Atualmente sou Técnicos de TI - Pleno - (09 anos)
-- 📖 Estou estudando Javascript e Logo mais React
+- 📖 Estou estudando Javascript e React
 - 🔭 E busco me especializar cada vez mais na área de front-end
 - 🎓 Cursando - Análise e desenvolvimento de sistemas
 
