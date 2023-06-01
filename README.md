@@ -3,7 +3,7 @@
 - 🥷🏽 Atualmente sou Técnicos de TI - (10 anos)
 - 📖 Estou estudando Javascript e React
 - 🔭 E busco me especializar cada vez mais na área de front-end
-- 🎓 Cursando - Análise e desenvolvimento de sistemas
+- 🎓 Cursando - Análise e desenvolvimento de sistemas 3/5
 
 <br><br>
 
