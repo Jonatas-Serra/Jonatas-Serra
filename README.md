@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/Jonatas-Serra">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=Jonatas-Serra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatas-Serra&&langs_count=7&theme=tokyonight"/>
+  <img height="280em" src="https://github-readme-stats.vercel.app/api?username=Jonatas-Serra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatas-Serra&&langs_count=7&theme=tokyonight"/>
 </div>
   
   <div align="center" style="display: inline_block"><br>
