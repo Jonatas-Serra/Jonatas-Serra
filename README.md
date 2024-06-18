@@ -28,9 +28,3 @@
   <a href="mailto:jonatasserra@outlook.com"><img src="https://img.icons8.com/color/452/ms-outlook.png" height="40px" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonatasserra/" target="_blank"><img src="https://img.icons8.com/color/344/linkedin.png" height="40px" target="_blank"></a> 
 </div>
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/Jonatas-Serra/Jonatas-Serra/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
