@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Jônatas Serra
+# 👋 Olá, eu sou Jonatas Serra
 
 💻 Desenvolvedor Full Stack com experiência em desenvolvimento de aplicações web, APIs e infraestrutura.
 
